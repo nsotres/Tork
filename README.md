@@ -34,26 +34,26 @@ These are the code files I created or collaborated in the project along with a b
 		<dd>- Sound that plays at deployment of bomb was made in the Unity Editor (not script)</dd>
 		<dd>- Splash at objects Destroy() was added</dd>
 		<dd>- Boing on bounce also added</dd>
-<dt>JetPack.js</dt>
-		<dd>- JetPack emmits a steam jet from underneath itself when the player jumps (esthetics only)</dd>
-		<dd>- Steam is created at the transpose of the jetPack</dd>
-<dt>JetThrust.js</dt>
-		<dd>- Just a destroy command so that the "steam" from the jet pack gets cleaned up</dd>
-		<dd>- After 2 seconds the steam object will get destroyed</dd>
-<dt>Transporter.js</dt>
-		<dd>- Transports the player from one transporter to the next</dd>
-		<dd>- Activated when player steps on platform</dd>
-		<dd>- Steam and sound come out, then player is transported to the next transport</dd>
-<dt>Projectile2.js (collaboration)</dt>
-		<dd>Michael K. (edited by Nestor S.)</dd>
-		<dd>- Script is for a main pipe projectile, it has been slightly modified so that it shoots further</dd>
-		<dd>- Part of creating a seperate script was so that editing it would not disrupt the	other elements in the game</dd>
 <dt>Elevator.js (collaboration)</dt>
 		<dd>Josh P. and Nestor S.</dd>
 		<dd>- Moves a platform from left to right</dd>
 <dt>ElevatorUpDown.js (collaboration)</dt>
 		<dd>Josh P. and Nestor S.</dd> 
 		<dd>- Moves a platform up and down</dd>
+<dt>JetPack.js</dt>
+		<dd>- JetPack emmits a steam jet from underneath itself when the player jumps (esthetics only)</dd>
+		<dd>- Steam is created at the transpose of the jetPack</dd>
+<dt>JetThrust.js</dt>
+		<dd>- Just a destroy command so that the "steam" from the jet pack gets cleaned up</dd>
+		<dd>- After 2 seconds the steam object will get destroyed</dd>
+<dt>Projectile2.js (collaboration)</dt>
+		<dd>Michael K. (edited by Nestor S.)</dd>
+		<dd>- Script is for a main pipe projectile, it has been slightly modified so that it shoots further</dd>
+		<dd>- Part of creating a seperate script was so that editing it would not disrupt the	other elements in the game</dd>
+<dt>Transporter.js</dt>
+		<dd>- Transports the player from one transporter to the next</dd>
+		<dd>- Activated when player steps on platform</dd>
+		<dd>- Steam and sound come out, then player is transported to the next transport</dd>
 </dl>
 Message
 =======
